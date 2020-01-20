@@ -5,7 +5,7 @@ What all parameters would you evaluate before redistributing.
 
 System level
 CPU, Memory, IO(Disk, NW)
-OS level warnings and errors
+OS level warnings and errors. The OS level stuff should catch things like overheated machines etc.
 
 For App monitor the same things, CPU, Memory , IO.
 Now if you have  apps repeatedly breaching one or more of the thresholds in a machine, you have to make a decision to rebalance.
