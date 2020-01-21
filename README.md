@@ -10,3 +10,9 @@ Donn Martins all in one
 https://github.com/donnemartin/system-design-primer#additional-system-design-interview-questions
 
 http://highscalability.com/all-time-favorites/
+
+### Numbers
+Redis cluster with 3 nodes can do 1 million OPS.
+SQL 5k OPS.
+Cassandra 60 instances - 1 million ops
+https://netflixtechblog.com/benchmarking-cassandra-scalability-on-aws-over-a-million-writes-per-second-39f45f066c9e
