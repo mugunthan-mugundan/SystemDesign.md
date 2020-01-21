@@ -8,3 +8,5 @@ https://stripe.com/blog/rate-limiters
 
 Donn Martins all in one
 https://github.com/donnemartin/system-design-primer#additional-system-design-interview-questions
+
+http://highscalability.com/all-time-favorites/
