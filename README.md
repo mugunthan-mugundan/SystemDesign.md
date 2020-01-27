@@ -16,3 +16,7 @@ Redis cluster with 3 nodes can do 1 million OPS.
 SQL 5k OPS.
 Cassandra 60 instances - 1 million ops
 https://netflixtechblog.com/benchmarking-cassandra-scalability-on-aws-over-a-million-writes-per-second-39f45f066c9e
+
+
+### Has collection of good pointers
+https://github.com/checkcheckzz/system-design-interview
