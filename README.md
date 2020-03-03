@@ -20,3 +20,7 @@ https://netflixtechblog.com/benchmarking-cassandra-scalability-on-aws-over-a-mil
 
 ### Has collection of good pointers
 https://github.com/checkcheckzz/system-design-interview
+
+###
+Raft implementation
+https://eli.thegreenplace.net/2020/implementing-raft-part-1-elections/
